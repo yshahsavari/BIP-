@@ -1,0 +1,19 @@
+
+Preparing for running configuration General, run #0...
+Scenario: $repetition=0
+Assigned runID=General-0-20181119-19:28:01-12252
+Setting up network `Network'...
+Initializing...
+
+Running simulation...
+** Event #0   t=0   Elapsed: 0.000s (0m 00s)
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 50   present: 50   in FES: 1
+** Event #703   t=0.653214747934   Elapsed: 0.095s (0m 00s)
+     Speed:     ev/sec=7400   simsec/sec=6.87594   ev/simsec=1076.22
+     Messages:  created: 802   present: 295   in FES: 0
+
+<!> No more events -- simulation ended at event #703, t=0.653214747934.
+
+
+Calling finish() at end of Run #0...
